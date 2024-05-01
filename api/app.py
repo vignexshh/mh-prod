@@ -39,7 +39,7 @@ tel_ayush = pd.read_csv('../Tel & Ap Data/TelanganaAyushData.csv')
 tel_merit_ayush=pd.read_csv('../Tel & Ap Data/21.csv')
 
 #Andhra MBBS & BDS
-andhra_mbbs_list = pd.read_csv('../Tel & Ap Data/test.csv')
+andhra_mbbs_list = pd.read_csv('../Tel & Ap Data/Ap_sort_Mbbs.csv')
 andhra_bds_list = pd.read_csv('../Tel & Ap Data/completeApBDS.csv')
 andhra_merit_list = pd.read_csv('../Tel & Ap Data/AndhraMerit.csv')
 
