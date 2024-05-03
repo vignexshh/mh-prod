@@ -142,11 +142,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 138613,1206060204,471,F,ST,AU,P1,"Siddhartha Medical College, Vijayawada",NO
 142048,1206160343,468,F,ST,AU,P1,"Siddhartha Medical College, Vijayawada",NO
 145225,4208020201,465,F,SC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
-295022,1225010244,361,M,BCD,AU,P1,"Siddhartha Medical College, Vijayawada",NO
-460317,4215010512,283,M,BCD,OU,P1,"Siddhartha Medical College, Vijayawada",NO
-494472,1224010245,270,F,OC,AU,P1,"Siddhartha Medical College, Vijayawada",NO
-516644,1204030553,262,F,OC,SVU,P1,"Siddhartha Medical College, Vijayawada",NO
-978609,4201130609,143,M,OC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 2037,1205070240,675,F,OC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 3054,1224030465,669,F,OC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 3339,1205230004,666,F,BCB,AU,P1,"Andhra Medical College, Visakhapatnam",NO
@@ -339,7 +334,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 67689,1205180122,545,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 72851,1205200230,539,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 73497,1222010753,538,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-74365,1206060272,537,F,BCD,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 82234,1205200395,528,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 85559,1205160166,525,M,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 88385,1224020096,521,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
@@ -349,13 +343,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 103283,1206050055,505,M,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 111053,1229050099,497,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 113433,3115110332,495,M,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-218177,1205110352,408,F,BCA,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-227357,1201010009,402,F,BCB,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-325851,1205020157,344,M,BCA,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-405848,1213010818,306,F,SC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-631568,1205060088,224,F,SC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-720273,1224010136,199,F,BCB,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-860454,1224020386,166,M,BCC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 1930,1201050139,676,F,OC,AU,P1,"Guntur Medical College, Guntur",NO
 2725,1201010589,670,M,OC,AU,P1,"Guntur Medical College, Guntur",NO
 3203,1201100257,667,F,OC,AU,P1,"Guntur Medical College, Guntur",NO
@@ -550,7 +537,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 80624,1216030220,530,M,SC,AU,P1,"Guntur Medical College, Guntur",NO
 81012,1206060367,530,M,SC,AU,P1,"Guntur Medical College, Guntur",NO
 98579,1205050283,510,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
-103038,1205150423,506,F,BCD,AU,P1,"Guntur Medical College, Guntur",NO
 112338,1222040116,496,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
 119405,1205130163,489,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
 120348,1224050173,489,M,ST,AU,P1,"Guntur Medical College, Guntur",NO
@@ -559,13 +545,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 123797,1201010273,485,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
 132178,1205130392,477,M,ST,AU,P1,"Guntur Medical College, Guntur",NO
 133094,1205050071,476,M,ST,AU,P1,"Guntur Medical College, Guntur",NO
-415624,1205040635,302,F,OC,AU,P1,"Guntur Medical College, Guntur",NO
-418159,1220020044,301,F,OC,AU,P1,"Guntur Medical College, Guntur",NO
-444595,1201040408,290,M,OC,AU,P1,"Guntur Medical College, Guntur",NO
-553010,1222010345,249,M,OC,AU,P1,"Guntur Medical College, Guntur",NO
-752022,1216030017,191,F,SC,AU,P1,"Guntur Medical College, Guntur",NO
-798637,1208020217,180,F,BCA,AU,P1,"Guntur Medical College, Guntur",NO
-1184319,1205020003,111,M,BCE,AU,P1,"Guntur Medical College, Guntur",NO
 6689,4223010226,651,M,OC,OU,P1,"Rangaraya Medical College, Kakinada",NO
 7833,1228030142,647,F,OC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 8062,4201060203,646,F,OC,OU,P1,"Rangaraya Medical College, Kakinada",NO
@@ -726,7 +705,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 60228,1205070400,555,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 61035,1220010965,554,M,BCE,AU,P1,"Rangaraya Medical College, Kakinada",NO
 61331,1205210263,553,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
-61480,1220020309,553,M,HEMASRI,VAISHNAVI,P1,"Rangaraya Medical College, Kakinada",NO
 66079,1224010188,547,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 67614,1206140151,545,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 68104,1205050598,545,F,BCE,AU,P1,"Rangaraya Medical College, Kakinada",NO
@@ -772,10 +750,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 133096,1205100084,476,M,ST,AU,P1,"Rangaraya Medical College, Kakinada",NO
 134093,1201110211,475,M,ST,AU,P1,"Rangaraya Medical College, Kakinada",NO
 136266,1203060590,473,M,ST,AU,P1,"Rangaraya Medical College, Kakinada",NO
-165318,1228010106,448,F,BCD,AU,P1,"Rangaraya Medical College, Kakinada",NO
-193104,1220040063,426,F,OC,AU,P1,"Rangaraya Medical College, Kakinada",NO
-477172,1205040354,277,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
-1099111,1205040057,123,M,BCA,AU,P1,"Rangaraya Medical College, Kakinada",NO
 16692,1206060063,624,M,BCD,AU,P1,"Government Medical College,Srikakulam",NO
 22802,1205240317,611,F,OC,AU,P1,"Government Medical College,Srikakulam",NO
 24045,1206160079,609,M,OC,AU,P1,"Government Medical College,Srikakulam",NO
@@ -868,7 +842,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 64576,1205010219,549,M,BCB,AU,P1,"Government Medical College,Srikakulam",NO
 65011,4206010193,549,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
 65592,1220050028,548,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
-68619,1224040152,544,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
 89318,1206060355,520,F,SC,AU,P1,"Government Medical College,Srikakulam",NO
 92916,1205140233,516,F,SC,AU,P1,"Government Medical College,Srikakulam",NO
 94470,1206020273,515,M,SC,AU,P1,"Government Medical College,Srikakulam",NO
@@ -899,8 +872,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 147106,1205130268,464,F,ST,AU,P1,"Government Medical College,Srikakulam",NO
 153248,1206110138,458,F,ST,AU,P1,"Government Medical College,Srikakulam",NO
 155667,1205070364,456,F,ST,AU,P1,"Government Medical College,Srikakulam",NO
-267277,1225020158,377,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
-333783,1206020511,340,M,BCA,AU,P1,"Government Medical College,Srikakulam",NO
 22173,1206130115,612,M,OC,AU,P1,"Government Medical College, Ongole",NO
 23917,1205240343,609,M,OC,AU,P1,"Government Medical College, Ongole",NO
 24315,1205010032,608,M,OC,AU,P1,"Government Medical College, Ongole",NO
@@ -997,10 +968,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 145239,1201040027,465,F,ST,AU,P1,"Government Medical College, Ongole",NO
 153317,1201090114,458,M,ST,AU,P1,"Government Medical College, Ongole",NO
 153318,1205040782,458,M,ST,AU,P1,"Government Medical College, Ongole",NO
-155684,1222040043,456,F,SC,AU,P1,"Government Medical College, Ongole",NO
-218135,1201070360,408,F,BCE,AU,P1,"Government Medical College, Ongole",NO
-316366,4201460264,349,F,SC,OU,P1,"Government Medical College, Ongole",NO
-835535,1205050294,171,F,OC,AU,P1,"Government Medical College, Ongole",NO
 32659,1206040270,594,F,OC,AU,P1,"Government Medical College, Vizianagaram",NO
 33494,1228030101,592,M,OC,AU,P1,"Government Medical College, Vizianagaram",NO
 33683,1206020490,592,F,OC,AU,P1,"Government Medical College, Vizianagaram",NO
@@ -1033,7 +1000,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 64877,1229010005,549,M,BCA,AU,P1,"Government Medical College, Vizianagaram",NO
 66107,1206140139,547,F,BCB,AU,P1,"Government Medical College, Vizianagaram",NO
 66808,1206160243,546,F,BCA,AU,P1,"Government Medical College, Vizianagaram",NO
-67675,1206040210,545,F,BCA,AU,P1,"Government Medical College, Vizianagaram",NO
 68588,1206160530,544,M,BCA,AU,P1,"Government Medical College, Vizianagaram",NO
 68730,1206030107,544,F,BCB,AU,P1,"Government Medical College, Vizianagaram",NO
 68793,1205160194,544,M,BCB,AU,P1,"Government Medical College, Vizianagaram",NO
@@ -1063,7 +1029,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 156803,1205070089,455,M,ST,AU,P1,"Government Medical College, Vizianagaram",NO
 158034,1206070293,454,M,ST,AU,P1,"Government Medical College, Vizianagaram",NO
 170267,1206010688,444,F,ST,AU,P1,"Government Medical College, Vizianagaram",NO
-536979,1206040057,255,F,BCB,AU,P1,"Government Medical College, Vizianagaram",NO
 22622,1205150290,611,F,OC,AU,P1,"Government Medical College, Rajamahendravaram",NO
 32015,1228040114,595,M,OC,AU,P1,"Government Medical College, Rajamahendravaram",NO
 32700,1206070460,594,M,OC,AU,P1,"Government Medical College, Rajamahendravaram",NO
@@ -1125,7 +1090,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 126017,1206010015,483,M,BCE,AU,P1,"Government Medical College, Rajamahendravaram",NO
 141951,1205170413,468,F,ST,AU,P1,"Government Medical College, Rajamahendravaram",NO
 147506,4203050226,463,F,ST,AU,P1,"Government Medical College, Rajamahendravaram",NO
-154678,1201020382,457,M,OC,AU,P1,"Government Medical College, Rajamahendravaram",NO
 161668,1205040103,451,M,ST,AU,P1,"Government Medical College, Rajamahendravaram",NO
 22511,1205040790,611,F,OC,AU,P1,"Government Medical College, Eluru",NO
 32658,1222010488,594,F,OC,AU,P1,"Government Medical College, Eluru",NO
@@ -1187,8 +1151,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 159262,1205010307,453,F,ST,AU,P1,"Government Medical College, Eluru",NO
 164029,1205170287,449,F,ST,AU,P1,"Government Medical College, Eluru",NO
 165373,1222040085,448,M,ST,AU,P1,"Government Medical College, Eluru",NO
-791169,1205040382,181,M,SC,AU,P1,"Government Medical College, Eluru",NO
-794926,1205030475,180,F,OC,AU,P1,"Government Medical College, Eluru",NO
 855175,1205130036,167,F,SC,AU,P1,"Government Medical College, Eluru",NO
 27219,1205050390,603,F,OC,AU,P1,"Government Medical College, Machilipatnam",NO
 32961,1224020162,593,F,OC,AU,P1,"Government Medical College, Machilipatnam",NO
@@ -1247,7 +1209,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 116644,1205150295,492,M,SC,AU,P1,"Government Medical College, Machilipatnam",NO
 117544,1205040401,491,M,BCE,AU,P1,"Government Medical College, Machilipatnam",NO
 124958,4219090324,484,F,BCE,AU,P1,"Government Medical College, Machilipatnam",NO
-157029,1205120423,455,F,SC,AU,P1,"Government Medical College, Machilipatnam",NO
 164117,1205040452,449,M,ST,AU,P1,"Government Medical College, Machilipatnam",NO
 169546,1205100088,445,M,ST,AU,P1,"Government Medical College, Machilipatnam",NO
 171493,1206160132,443,F,ST,AU,P1,"Government Medical College, Machilipatnam",NO
@@ -1496,7 +1457,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 180365,1205140151,436,M,ST,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 182735,1208020372,434,F,ST,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 185278,1205270126,432,M,ST,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
-1031957,1214010202,134,M,OC,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 21595,2712060604,613,M,OC,NL,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 30960,1219030043,596,M,OC,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 31694,1206010619,595,M,OC,SVU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
@@ -1617,8 +1577,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 180199,1201030147,436,M,ST,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 180567,1205080212,436,M,ST,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 181264,1206130330,436,M,ST,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
-258810,1219040082,382,M,SC,SVU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
-592180,1206140219,236,F,BCA,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 36643,4219010611,587,F,OC,OU,P1,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 42956,4201420164,578,M,OC,OU,P1,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 43148,1213010160,578,M,OC,AU,P1,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
@@ -1774,7 +1732,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 141834,1222030097,468,F,SC,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 141970,1205100243,468,F,BCE,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 142203,1224030019,468,F,SC,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
-143181,1205230033,467,F,BCE,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 144137,1224010506,466,M,SC,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 145182,1205220008,465,M,SC,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 145232,4201070330,465,M,SC,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
@@ -1785,12 +1742,10 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 147880,1220010618,463,M,BCE,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 148557,1205040045,462,M,BCE,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 155920,4208020103,456,M,ST,OU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
-177744,1222040178,438,F,SC,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 189737,1201090092,429,F,ST,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 190538,1205160272,428,F,ST,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 194511,1201060370,425,F,ST,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 195016,1205170037,425,F,ST,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
-851324,1229010053,168,M,BCD,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 23460,1228040047,610,M,OC,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 29284,1224030366,600,M,OC,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 33169,1205080404,593,M,OC,AU,P1,"GSL Medical College, Rajamahendravaram",NO
@@ -1871,7 +1826,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 85178,1205050212,525,F,BCB,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 86590,1206060040,523,M,BCA,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 86609,1220010882,523,F,BCA,AU,P1,"GSL Medical College, Rajamahendravaram",NO
-86619,1225050201,523,M,BCA,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 86643,1205040746,523,F,BCB,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 88369,1220050229,521,F,BCA,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 88431,1228010224,521,M,BCB,AU,P1,"GSL Medical College, Rajamahendravaram",NO
@@ -1911,8 +1865,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 182900,1205190416,434,F,ST,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 183122,1205050684,434,M,ST,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 184061,1206020601,433,M,ST,AU,P1,"GSL Medical College, Rajamahendravaram",NO
-240523,1206140243,393,F,SC,AU,P1,"GSL Medical College, Rajamahendravaram",NO
-440803,1229050134,291,F,ST,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 41382,1220030003,580,F,OC,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 41563,1209010243,580,F,OC,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 43619,1206020405,577,M,BCD,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
@@ -1986,7 +1938,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 192553,1205150014,427,F,ST,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 195866,1205230204,424,F,ST,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 198521,1205090048,422,F,ST,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
-380599,1201060281,317,M,SC,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 45018,1228010063,575,M,OC,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 46369,1206080264,573,F,OC,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 46616,1206080068,573,F,OC,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
@@ -2032,7 +1983,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 99749,1206160454,509,M,BCB,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 101958,1205080032,507,F,BCB,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 101961,1224080224,507,M,BCB,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
-102380,1205080195,506,F,BCB,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 103567,1205050246,505,M,BCA,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 103666,1205060217,505,F,BCB,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 104436,1228020061,504,M,BCB,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
@@ -2055,7 +2005,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 147541,1206060410,463,F,SC,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 147585,1201080178,463,F,BCE,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 147697,1224020131,463,F,BCE,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
-175718,1206110131,440,F,BCD,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 187938,1209010026,430,F,ST,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 188410,1205070439,430,F,ST,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 195104,3115090193,425,F,ST,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
@@ -2107,7 +2056,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 87598,1206030127,522,F,BCA,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 93898,1206050217,515,F,BCA,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 96808,1205110170,512,F,BCA,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
-96827,1201080321,512,F,BCB,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 97617,1206090403,512,M,BCA,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 97835,1206110300,511,M,SANTOS,M,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 97971,3905030022,511,F,BCB,APNL,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
@@ -2331,7 +2279,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 58369,1205200398,557,M,BCA,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 59916,1204070056,555,M,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 62063,1205210097,552,M,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-67636,4201050179,545,F,BCB,OUAPNL,P1,"Sri Venkateswara Medical College, Tirupati",NO
 72694,1205230221,539,F,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 73850,1205020298,538,F,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 74288,1204060415,537,F,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
@@ -2368,15 +2315,10 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 114206,2702010312,494,M,SIVANI,F,P1,"Sri Venkateswara Medical College, Tirupati",NO
 118998,1205070345,490,M,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 121921,4208030073,487,M,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-124646,1202010510,484,M,BCD,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 127758,1204030373,481,F,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 131237,1205010543,478,M,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 133079,1205140234,476,F,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 134266,1205180112,475,M,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-177372,1204010900,439,F,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-215400,1204070208,410,F,BCA,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-370510,1204030322,322,F,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-801234,1204080267,179,M,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 1242,1205210357,685,F,BCB,SVU,P1,"Kurnool Medical College, Kurnool",NO
 2981,1205190083,670,M,OC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 4070,1205040565,662,M,BCD,SVU,P1,"Kurnool Medical College, Kurnool",NO
@@ -2542,7 +2484,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 55051,1202010690,561,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 56980,1222010404,559,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 58836,1205080196,556,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
-60011,1204010946,555,F,BCA,SVU,P1,"Kurnool Medical College, Kurnool",NO
 60347,1205030269,555,M,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 60583,1205150430,554,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 61403,1205070402,553,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
@@ -2581,13 +2522,8 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 97662,1202060505,511,M,ST,SVU,P1,"Kurnool Medical College, Kurnool",NO
 100696,1204080353,508,F,ST,SVU,P1,"Kurnool Medical College, Kurnool",NO
 106210,1202010011,502,M,ST,SVU,P1,"Kurnool Medical College, Kurnool",NO
-223294,1203010364,405,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
-276705,1205030166,371,M,OC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 648199,1204080129,219,M,SALEEL,AHAMED,P1,"Kurnool Medical College, Kurnool",NO
 682716,1212010129,209,M,OC,SVU,P1,"Kurnool Medical College, Kurnool",NO
-699701,1205220373,205,M,BCE,SVU,P1,"Kurnool Medical College, Kurnool",NO
-805273,1206060226,178,F,BCD,AU,P1,"Kurnool Medical College, Kurnool",NO
-995835,1202030593,140,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 29787,1205270379,599,F,OC,AU,P1,"Government Medical College, Kadapa",NO
 30542,4201020544,597,M,OC,OU,P1,"Government Medical College, Kadapa",NO
 31229,4201070496,596,M,OC,OU,P1,"Government Medical College, Kadapa",NO
@@ -2722,14 +2658,12 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 127987,1205020471,481,F,SC,SVU,P1,"Government Medical College, Kadapa",NO
 128389,1205090068,481,M,SC,SVU,P1,"Government Medical College, Kadapa",NO
 131795,4204060038,478,M,ST,OU,P1,"Government Medical College, Kadapa",NO
-149224,1205060328,462,F,SC,SVU,P1,"Government Medical College, Kadapa",NO
 162859,1204060364,450,M,ST,SVU,P1,"Government Medical College, Kadapa",NO
 164440,1204020650,449,M,ST,SVU,P1,"Government Medical College, Kadapa",NO
 166076,1221010655,448,F,ST,SVU,P1,"Government Medical College, Kadapa",NO
 167831,1204020282,446,F,ST,SVU,P1,"Government Medical College, Kadapa",NO
 168973,1205190007,445,F,ST,SVU,P1,"Government Medical College, Kadapa",NO
 170208,1205090304,444,M,ST,SVU,P1,"Government Medical College, Kadapa",NO
-171293,1201080200,443,M,SC,AU,P1,"Government Medical College, Kadapa",NO
 171390,1205120376,443,F,ST,SVU,P1,"Government Medical College, Kadapa",NO
 172607,1228020032,442,F,ST,SVU,P1,"Government Medical College, Kadapa",NO
 844434,1212010622,169,M,BCA,SVU,P1,"Government Medical College, Kadapa",NO
@@ -2856,8 +2790,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 157024,1205040490,455,F,ST,SVU,P1,"Government Medical College, Anantapur",NO
 160816,1204060270,452,M,ST,SVU,P1,"Government Medical College, Anantapur",NO
 161691,1202020446,451,F,ST,SVU,P1,"Government Medical College, Anantapur",NO
-285072,1202010981,366,F,SC,AU,P1,"Government Medical College, Anantapur",NO
-476573,1223020072,277,F,BCB,SVU,P1,"Government Medical College, Anantapur",NO
 658826,4201450331,216,M,OC,OUAPNL,P1,"Government Medical College, Anantapur",NO
 12893,1205010431,632,F,OC,SVU,P1,"ACSR Government Medical College, Nellore",NO
 15534,2712360352,626,M,OC,APNL,P1,"ACSR Government Medical College, Nellore",NO
@@ -2941,7 +2873,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 62054,1205170323,552,F,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
 62860,1202050140,551,M,BCA,SVU,P1,"ACSR Government Medical College, Nellore",NO
 63721,1205050171,550,M,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
-63840,1219030141,550,F,OC,SVU,P1,"ACSR Government Medical College, Nellore",NO
 64095,1219010631,550,F,BCB,SVU,P1,"ACSR Government Medical College, Nellore",NO
 64174,1205240271,550,M,BCA,SVU,P1,"ACSR Government Medical College, Nellore",NO
 64630,1203060846,549,M,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
@@ -3067,8 +2998,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 173953,1212050211,441,F,ST,SVU,P1,"Government Medical College, Nandyal",NO
 176365,1204070187,439,F,ST,SVU,P1,"Government Medical College, Nandyal",NO
 176791,1205200227,439,F,ST,SVU,P1,"Government Medical College, Nandyal",NO
-257277,1221020181,383,F,OC,SVU,P1,"Government Medical College, Nandyal",NO
-779295,4201360245,184,M,OC,OUAPNL,P1,"Government Medical College, Nandyal",NO
 25298,1206010600,606,F,OC,AU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 26658,1205130479,604,F,OC,AU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 27790,2712330068,602,F,OC,APNL,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
@@ -3191,8 +3120,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 178859,1205210240,437,F,ST,SVU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 184414,1204010635,433,M,VIDYA,VAHINI,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 186844,1205160134,431,F,ST,SVU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
-746215,1201080121,192,F,OC,AU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
-793226,1221010495,181,F,OC,SVU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 20701,2712130186,615,M,OC,APNL,P1,"Narayana Medical College, Nellore",NO
 28930,1220030060,600,M,OC,AU,P1,"Narayana Medical College, Nellore",NO
 33570,1205100242,592,M,OC,AU,P1,"Narayana Medical College, Nellore",NO
@@ -3370,7 +3297,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 107209,1223020265,501,F,BCE,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 107376,1205030313,501,F,BCE,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 108144,1203040104,500,F,BCE,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
-108197,1203040201,500,F,OC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 138549,4216010430,471,F,ST,OU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 142947,1205020389,467,F,SC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 143284,1221010513,467,M,BCC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
@@ -3388,7 +3314,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 189414,1205010983,429,M,ST,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 197698,1219010637,423,F,ST,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 201293,1205190375,420,F,ST,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
-239008,1205260099,394,M,SC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 22787,1212020064,611,F,OC,APNL,P1,"Santhiram Medical College, Nandyal",NO
 41069,1203010494,581,F,OC,SVU,P1,"Santhiram Medical College, Nandyal",NO
 55997,1202040655,560,F,OC,SVU,P1,"Santhiram Medical College, Nandyal",NO
@@ -3830,11 +3755,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 160811,1202060560,452,F,SC,OU,P2,"Siddhartha Medical College, Vijayawada",NO
 161140,4202020476,452,F,SC,OU,P2,"Siddhartha Medical College, Vijayawada",NO
 166925,4221080274,447,F,BCC,OU,P2,"Siddhartha Medical College, Vijayawada",NO
-295022,1225010244,361,M,BCD,AU,P1,"Siddhartha Medical College, Vijayawada",NO
-460317,4215010512,283,M,BCD,OU,P1,"Siddhartha Medical College, Vijayawada",NO
-494472,1224010245,270,F,OC,AU,P1,"Siddhartha Medical College, Vijayawada",NO
-516644,1204030553,262,F,OC,SVU,P1,"Siddhartha Medical College, Vijayawada",NO
-978609,4201130609,143,M,OC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 3339,1205230004,666,F,BCB,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 4934,1206150165,659,F,OC,AU,P2,"Andhra Medical College, Visakhapatnam",NO
 5534,1206030412,655,F,OC,AU,P2,"Andhra Medical College, Visakhapatnam",NO
@@ -4027,7 +3947,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 67689,1205180122,545,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 72851,1205200230,539,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 73497,1222010753,538,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-74365,1206060272,537,F,BCD,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 82234,1205200395,528,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 85559,1205160166,525,M,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 88385,1224020096,521,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
@@ -4037,13 +3956,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 111053,1229050099,497,F,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 113433,3115110332,495,M,ST,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 118377,1205240263,490,M,ST,AU,P2,"Andhra Medical College, Visakhapatnam",NO
-218177,1205110352,408,F,BCA,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-227357,1201010009,402,F,BCB,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-325851,1205020157,344,M,BCA,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-405848,1213010818,306,F,SC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-631568,1205060088,224,F,SC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-720273,1224010136,199,F,BCB,AU,P1,"Andhra Medical College, Visakhapatnam",NO
-860454,1224020386,166,M,BCC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 943646,1206040412,149,F,OC,AU,P1,"Andhra Medical College, Visakhapatnam",NO
 6852,1201080199,650,F,OC,AU,P2,"Guntur Medical College, Guntur",NO
 10529,1201100035,638,F,OC,AU,P2,"Guntur Medical College, Guntur",NO
@@ -4239,7 +4151,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 80624,1216030220,530,M,SC,AU,P1,"Guntur Medical College, Guntur",NO
 81012,1206060367,530,M,SC,AU,P1,"Guntur Medical College, Guntur",NO
 98579,1205050283,510,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
-103038,1205150423,506,F,BCD,AU,P1,"Guntur Medical College, Guntur",NO
 112338,1222040116,496,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
 119405,1205130163,489,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
 120348,1224050173,489,M,ST,AU,P1,"Guntur Medical College, Guntur",NO
@@ -4248,14 +4159,7 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 123797,1201010273,485,F,ST,AU,P1,"Guntur Medical College, Guntur",NO
 132178,1205130392,477,M,ST,AU,P1,"Guntur Medical College, Guntur",NO
 133094,1205050071,476,M,ST,AU,P1,"Guntur Medical College, Guntur",NO
-415624,1205040635,302,F,OC,AU,P1,"Guntur Medical College, Guntur",NO
-418159,1220020044,301,F,OC,AU,P1,"Guntur Medical College, Guntur",NO
-444595,1201040408,290,M,OC,AU,P1,"Guntur Medical College, Guntur",NO
 499938,1205010909,268,F,BCA,AU,P1,"Guntur Medical College, Guntur",NO
-553010,1222010345,249,M,OC,AU,P1,"Guntur Medical College, Guntur",NO
-752022,1216030017,191,F,SC,AU,P1,"Guntur Medical College, Guntur",NO
-798637,1208020217,180,F,BCA,AU,P1,"Guntur Medical College, Guntur",NO
-1184319,1205020003,111,M,BCE,AU,P1,"Guntur Medical College, Guntur",NO
 7833,1228030142,647,F,OC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 12631,1224080002,633,M,OC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 13181,1220050100,631,F,OC,AU,P2,"Rangaraya Medical College, Kakinada",NO
@@ -4416,7 +4320,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 60228,1205070400,555,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 61035,1220010965,554,M,BCE,AU,P1,"Rangaraya Medical College, Kakinada",NO
 61331,1205210263,553,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
-61480,1220020309,553,M,HEMASRI,VAISHNAVI,P1,"Rangaraya Medical College, Kakinada",NO
 66079,1224010188,547,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 68660,1206160073,544,M,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
 70355,1220010091,542,M,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
@@ -4463,10 +4366,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 136266,1203060590,473,M,ST,AU,P1,"Rangaraya Medical College, Kakinada",NO
 136322,1205080444,473,M,ST,AU,P2,"Rangaraya Medical College, Kakinada",NO
 137396,1206010271,472,F,ST,AU,P2,"Rangaraya Medical College, Kakinada",NO
-165318,1228010106,448,F,BCD,AU,P1,"Rangaraya Medical College, Kakinada",NO
-193104,1220040063,426,F,OC,AU,P1,"Rangaraya Medical College, Kakinada",NO
-477172,1205040354,277,F,SC,AU,P1,"Rangaraya Medical College, Kakinada",NO
-1099111,1205040057,123,M,BCA,AU,P1,"Rangaraya Medical College, Kakinada",NO
 27136,1225010674,603,F,BCD,AU,P2,"Government Medical College,Srikakulam",NO
 30529,1206060467,597,F,OC,AU,P2,"Government Medical College,Srikakulam",NO
 30620,1229050039,597,F,BCD,AU,P2,"Government Medical College,Srikakulam",NO
@@ -4559,7 +4458,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 64576,1205010219,549,M,BCB,AU,P1,"Government Medical College,Srikakulam",NO
 65011,4206010193,549,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
 65592,1220050028,548,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
-68619,1224040152,544,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
 92916,1205140233,516,F,SC,AU,P2,"Government Medical College,Srikakulam",NO
 94470,1206020273,515,M,SC,AU,P2,"Government Medical College,Srikakulam",NO
 96775,1220011050,512,M,SC,AU,P2,"Government Medical College,Srikakulam",NO
@@ -4590,8 +4488,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 156899,1201080230,455,M,ST,AU,P2,"Government Medical College,Srikakulam",NO
 158034,1206070293,454,M,ST,AU,P2,"Government Medical College,Srikakulam",NO
 161668,1205040103,451,M,ST,AU,P2,"Government Medical College,Srikakulam",NO
-267277,1225020158,377,F,BCB,AU,P1,"Government Medical College,Srikakulam",NO
-333783,1206020511,340,M,BCA,AU,P1,"Government Medical College,Srikakulam",NO
 799639,1229040110,179,F,BCD,AU,P1,"Government Medical College,Srikakulam",NO
 28302,1205040482,601,M,OC,AU,P2,"Government Medical College, Ongole",NO
 29555,1228010118,599,M,OC,AU,P2,"Government Medical College, Ongole",NO
@@ -4689,11 +4585,7 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 145239,1201040027,465,F,ST,AU,P1,"Government Medical College, Ongole",NO
 153317,1201090114,458,M,ST,AU,P1,"Government Medical College, Ongole",NO
 153318,1205040782,458,M,ST,AU,P1,"Government Medical College, Ongole",NO
-155684,1222040043,456,F,SC,AU,P1,"Government Medical College, Ongole",NO
-218135,1201070360,408,F,BCE,AU,P1,"Government Medical College, Ongole",NO
 231892,1206020229,399,F,BCB,AU,P1,"Government Medical College, Ongole",NO
-316366,4201460264,349,F,SC,OU,P1,"Government Medical College, Ongole",NO
-835535,1205050294,171,F,OC,AU,P1,"Government Medical College, Ongole",NO
 32659,1206040270,594,F,OC,AU,P1,"Government Medical College, Vizianagaram",NO
 36795,1205150358,587,M,OC,AU,P2,"Government Medical College, Vizianagaram",NO
 39949,1228040228,583,M,OC,AU,P1,"Government Medical College, Vizianagaram",NO
@@ -4756,7 +4648,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 177670,1222010051,438,M,ST,AU,P2,"Government Medical College, Vizianagaram",NO
 178929,1205100003,437,F,ST,AU,P2,"Government Medical College, Vizianagaram",NO
 180199,1201030147,436,M,ST,AU,P2,"Government Medical College, Vizianagaram",NO
-536979,1206040057,255,F,BCB,AU,P1,"Government Medical College, Vizianagaram",NO
 1073783,1228030163,127,M,SC,AU,P1,"Government Medical College, Vizianagaram",NO
 32015,1228040114,595,M,OC,AU,P1,"Government Medical College, Rajamahendravaram",NO
 34206,1205230027,591,F,BCD,AU,P2,"Government Medical College, Rajamahendravaram",NO
@@ -4819,7 +4710,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 126017,1206010015,483,M,BCE,AU,P1,"Government Medical College, Rajamahendravaram",NO
 141951,1205170413,468,F,ST,AU,P1,"Government Medical College, Rajamahendravaram",NO
 147506,4203050226,463,F,ST,AU,P1,"Government Medical College, Rajamahendravaram",NO
-154678,1201020382,457,M,OC,AU,P1,"Government Medical College, Rajamahendravaram",NO
 164029,1205170287,449,F,ST,AU,P2,"Government Medical College, Rajamahendravaram",NO
 34438,2712240220,591,F,OC,AU,P2,"Government Medical College, Eluru",NO
 35022,1205040418,590,M,OC,AU,P2,"Government Medical College, Eluru",NO
@@ -4883,8 +4773,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 171499,1225020085,443,F,ST,AU,P2,"Government Medical College, Eluru",NO
 178920,1205140252,437,F,ST,AU,P2,"Government Medical College, Eluru",NO
 379260,1206160162,318,M,OC,AU,P1,"Government Medical College, Eluru",NO
-791169,1205040382,181,M,SC,AU,P1,"Government Medical College, Eluru",NO
-794926,1205030475,180,F,OC,AU,P2,"Government Medical College, Eluru",NO
 34921,1205010215,590,F,OC,AU,P2,"Government Medical College, Machilipatnam",NO
 35561,1201070178,589,M,OC,AU,P2,"Government Medical College, Machilipatnam",NO
 36544,2603040400,588,M,OC,AU,P2,"Government Medical College, Machilipatnam",NO
@@ -4942,11 +4830,9 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 122035,1220010477,487,M,SC,AU,P2,"Government Medical College, Machilipatnam",NO
 122745,1224020242,486,F,SC,AU,P2,"Government Medical College, Machilipatnam",NO
 124958,4219090324,484,F,BCE,AU,P1,"Government Medical College, Machilipatnam",NO
-157029,1205120423,455,F,SC,AU,P1,"Government Medical College, Machilipatnam",NO
 164117,1205040452,449,M,ST,AU,P1,"Government Medical College, Machilipatnam",NO
 169546,1205100088,445,M,ST,AU,P1,"Government Medical College, Machilipatnam",NO
 171493,1206160132,443,F,ST,AU,P1,"Government Medical College, Machilipatnam",NO
-203479,1201070154,419,F,BCE,AU,P2,"Government Medical College, Machilipatnam",NO
 802300,1206060281,179,M,OC,AU,P1,"Government Medical College, Machilipatnam",NO
 29734,1205210258,599,F,OC,AU,P2,"NRI Medical College, Chinnakakani",NO
 30687,1206060186,597,F,OC,AU,P2,"NRI Medical College, Chinnakakani",NO
@@ -5021,7 +4907,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 73603,1205060121,538,F,BCB,AU,P1,"NRI Medical College, Chinnakakani",NO
 73760,1205170256,538,F,BCB,AU,P1,"NRI Medical College, Chinnakakani",NO
 75261,4201060438,536,M,BCA,AU,P1,"NRI Medical College, Chinnakakani",NO
-86619,1225050201,523,M,BCA,AU,P2,"NRI Medical College, Chinnakakani",NO
 92253,1205160320,517,F,SC,AU,P1,"NRI Medical College, Chinnakakani",NO
 96114,1201080087,513,F,BCE,AU,P1,"NRI Medical College, Chinnakakani",NO
 98485,1208020482,511,M,M,BC-E,P1,"NRI Medical College, Chinnakakani",NO
@@ -5145,7 +5030,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 53676,1205250004,563,F,OC,AU,P2,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 53749,1205040711,563,F,OC,AU,P2,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 55048,1205010485,561,F,BCD,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
-55204,1206150147,561,F,OC,AU,P2,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 56577,1205060197,560,F,BCD,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 57599,1205180449,558,F,BCD,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 61702,1206030366,553,M,BCD,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
@@ -5196,7 +5080,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 182735,1208020372,434,F,ST,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 185278,1205270126,432,M,ST,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 189737,1201090092,429,F,ST,AU,P2,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
-1031957,1214010202,134,M,OC,AU,P1,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 21595,2712060604,613,M,OC,NL,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 31694,1206010619,595,M,OC,SVU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 37724,1205010565,586,M,OC,AU,P2,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
@@ -5288,7 +5171,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 86140,1225010542,524,M,BCA,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 86549,1225030136,523,F,BCA,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 87721,1206040379,522,F,BCA,AU,P2,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
-102380,1205080195,506,F,BCB,AU,P2,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 106258,1220040002,502,F,BCE,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 109198,1201010288,499,M,BCE,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 114381,1205080011,494,M,BCE,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
@@ -5318,8 +5200,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 183122,1205050684,434,M,ST,AU,P2,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 185384,1205100236,432,F,ST,AU,P2,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 187938,1209010026,430,F,ST,AU,P2,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
-258810,1219040082,382,M,SC,SVU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
-592180,1206140219,236,F,BCA,AU,P1,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 45160,1220010757,575,F,OC,AU,P2,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 45822,4201050401,574,F,OC,NL,P2,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 47086,4203040136,572,F,OC,AU,P2,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
@@ -5488,12 +5368,10 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 153114,1224030264,459,F,SC,AU,P2,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 153278,1205170181,458,F,SC,AU,P2,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 170553,4208050294,444,M,ST,OU,P2,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
-177744,1222040178,438,F,SC,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 190538,1205160272,428,F,ST,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 195016,1205170037,425,F,ST,AU,P2,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 195104,3115090193,425,F,ST,AU,P2,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 198249,4201060295,423,M,ST,AU,P2,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
-851324,1229010053,168,M,BCD,AU,P1,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 33169,1205080404,593,M,OC,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 37486,1228010143,586,M,OC,AU,P2,"GSL Medical College, Rajamahendravaram",NO
 38024,2712030395,585,M,OC,NL,P2,"GSL Medical College, Rajamahendravaram",NO
@@ -5532,7 +5410,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 52511,1205020586,565,F,OC,AU,P2,"GSL Medical College, Rajamahendravaram",NO
 53030,1206110200,564,M,BCD,AU,P2,"GSL Medical College, Rajamahendravaram",NO
 53061,1228010323,564,M,OC,AU,P2,"GSL Medical College, Rajamahendravaram",NO
-54556,1205170057,562,F,OC,AU,P2,"GSL Medical College, Rajamahendravaram",NO
 55164,1205260205,561,M,BCD,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 55533,1205150114,561,F,BCD,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 56979,1206120092,559,F,BCD,AU,P1,"GSL Medical College, Rajamahendravaram",NO
@@ -5615,8 +5492,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 184061,1206020601,433,M,ST,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 189241,1205020692,429,M,ST,AU,P2,"GSL Medical College, Rajamahendravaram",NO
 189320,1205200454,429,F,ST,AU,P2,"GSL Medical College, Rajamahendravaram",NO
-240523,1206140243,393,F,SC,AU,P1,"GSL Medical College, Rajamahendravaram",NO
-440803,1229050134,291,F,ST,AU,P1,"GSL Medical College, Rajamahendravaram",NO
 43619,1206020405,577,M,BCD,AU,P2,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 47571,1205010204,572,M,OC,AU,P2,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 49064,4201170045,570,M,OC,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
@@ -5690,7 +5565,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 198521,1205090048,422,F,ST,AU,P2,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 199075,1206030387,422,M,ST,AU,P2,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 200357,1224080215,421,F,ST,AU,P2,"NRI Institute of Medical Sciences, Visakhapatnam",NO
-380599,1201060281,317,M,SC,AU,P1,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 50462,2001330449,568,M,OC,NL,P2,"Great Eastern Medical School and Hospital , Srikakulam",NO
 55163,1205090160,561,F,OC,AU,P2,"Great Eastern Medical School and Hospital , Srikakulam",NO
 55338,1203040435,561,F,OC,AU,P2,"Great Eastern Medical School and Hospital , Srikakulam",NO
@@ -5759,7 +5633,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 152112,1205180167,459,M,BCE,AU,P2,"Great Eastern Medical School and Hospital , Srikakulam",NO
 152652,1206080193,459,F,BCE,AU,P2,"Great Eastern Medical School and Hospital , Srikakulam",NO
 153509,1205020149,458,F,BCE,AU,P2,"Great Eastern Medical School and Hospital , Srikakulam",NO
-175718,1206110131,440,F,BCD,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 188410,1205070439,430,F,ST,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
 197167,1205030684,423,F,ST,AU,P2,"Great Eastern Medical School and Hospital , Srikakulam",NO
 198517,1224020170,422,F,ST,AU,P1,"Great Eastern Medical School and Hospital , Srikakulam",NO
@@ -5806,7 +5679,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 74499,1206130294,537,F,BCD,AU,P2,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 74967,1205140080,537,M,BCD,AU,P2,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 75023,1205100408,537,M,BCD,AU,P2,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
-77484,1229050190,534,M,BCD,AU,P2,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 86193,1205040729,524,M,BCC,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 87321,1205030110,523,F,BCB,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
 87598,1206030127,522,F,BCA,AU,P1,"Gayatri Vidya Parishad Inst. of Health Care and Medical Technology, Visakhapatnam",NO
@@ -6095,7 +5967,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 58187,1202040326,557,F,BCA,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 58369,1205200398,557,M,BCA,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 62063,1205210097,552,M,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-67636,4201050179,545,F,BCB,OUAPNL,P1,"Sri Venkateswara Medical College, Tirupati",NO
 72694,1205230221,539,F,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 74288,1204060415,537,F,SC,SVU,P2,"Sri Venkateswara Medical College, Tirupati",NO
 79476,1203020814,531,F,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
@@ -6129,7 +6000,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 113099,1202050021,495,M,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 113167,1204030445,495,M,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 114206,2702010312,494,M,SIVANI,F,P1,"Sri Venkateswara Medical College, Tirupati",NO
-124646,1202010510,484,M,BCD,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 127758,1204030373,481,F,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 131237,1205010543,478,M,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 133079,1205140234,476,F,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
@@ -6137,11 +6007,7 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 135569,1205170153,474,F,ST,SVU,P2,"Sri Venkateswara Medical College, Tirupati",NO
 139586,1205160191,470,M,ST,SVU,P2,"Sri Venkateswara Medical College, Tirupati",NO
 142373,1205110248,468,F,ST,SVU,P2,"Sri Venkateswara Medical College, Tirupati",NO
-177372,1204010900,439,F,ST,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 184083,4219040129,433,F,OC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-215400,1204070208,410,F,BCA,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-370510,1204030322,322,F,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
-801234,1204080267,179,M,SC,SVU,P1,"Sri Venkateswara Medical College, Tirupati",NO
 7996,1204040488,646,M,OC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 8767,1202020122,644,M,OC,SVU,P2,"Kurnool Medical College, Kurnool",NO
 9391,1219020146,641,F,OC,SVU,P2,"Kurnool Medical College, Kurnool",NO
@@ -6309,7 +6175,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 55051,1202010690,561,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 56980,1222010404,559,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 58836,1205080196,556,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
-60011,1204010946,555,F,BCA,SVU,P1,"Kurnool Medical College, Kurnool",NO
 60583,1205150430,554,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 61403,1205070402,553,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 61419,1205110438,553,M,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
@@ -6347,12 +6212,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 107386,1205270391,501,M,ST,SVU,P2,"Kurnool Medical College, Kurnool",NO
 118998,1205070345,490,M,ST,SVU,P2,"Kurnool Medical College, Kurnool",NO
 128949,1205210245,480,F,ST,SVU,P2,"Kurnool Medical College, Kurnool",NO
-223294,1203010364,405,F,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
-276705,1205030166,371,M,OC,SVU,P1,"Kurnool Medical College, Kurnool",NO
-699701,1205220373,205,M,BCE,SVU,P2,"Kurnool Medical College, Kurnool",NO
-793226,1221010495,181,F,OC,SVU,P2,"Kurnool Medical College, Kurnool",NO
-805273,1206060226,178,F,BCD,AU,P1,"Kurnool Medical College, Kurnool",NO
-995835,1202030593,140,F,SC,SVU,P2,"Kurnool Medical College, Kurnool",NO
 1003819,1203010377,138,M,SC,SVU,P1,"Kurnool Medical College, Kurnool",NO
 29787,1205270379,599,F,OC,AU,P1,"Government Medical College, Kadapa",NO
 32073,1201050010,595,F,OC,AU,P1,"Government Medical College, Kadapa",NO
@@ -6489,12 +6348,10 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 127987,1205020471,481,F,SC,SVU,P1,"Government Medical College, Kadapa",NO
 128389,1205090068,481,M,SC,SVU,P1,"Government Medical College, Kadapa",NO
 128821,1204010541,480,M,SC,SVU,P2,"Government Medical College, Kadapa",NO
-149224,1205060328,462,F,SC,SVU,P1,"Government Medical College, Kadapa",NO
 156803,1205070089,455,M,ST,AU,P2,"Government Medical College, Kadapa",NO
 162859,1204060364,450,M,ST,SVU,P1,"Government Medical College, Kadapa",NO
 167831,1204020282,446,F,ST,SVU,P1,"Government Medical College, Kadapa",NO
 170208,1205090304,444,M,ST,SVU,P1,"Government Medical College, Kadapa",NO
-171293,1201080200,443,M,SC,AU,P1,"Government Medical College, Kadapa",NO
 171390,1205120376,443,F,ST,SVU,P2,"Government Medical College, Kadapa",NO
 172607,1228020032,442,F,ST,SVU,P2,"Government Medical College, Kadapa",NO
 173953,1212050211,441,F,ST,SVU,P2,"Government Medical College, Kadapa",NO
@@ -6623,10 +6480,7 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 161691,1202020446,451,F,ST,SVU,P1,"Government Medical College, Anantapur",NO
 166076,1221010655,448,F,ST,SVU,P2,"Government Medical College, Anantapur",NO
 168973,1205190007,445,F,ST,SVU,P2,"Government Medical College, Anantapur",NO
-285072,1202010981,366,F,SC,AU,P1,"Government Medical College, Anantapur",NO
 446076,1204090002,289,F,BCD,SVU,P1,"Government Medical College, Anantapur",NO
-476573,1223020072,277,F,BCB,SVU,P1,"Government Medical College, Anantapur",NO
-1011548,4223030034,137,F,BCD,OU,P2,"Government Medical College, Anantapur",NO
 12893,1205010431,632,F,OC,SVU,P1,"ACSR Government Medical College, Nellore",NO
 25470,1203010296,606,M,BCB,SVU,P2,"ACSR Government Medical College, Nellore",NO
 29922,1203020184,598,F,OC,SVU,P2,"ACSR Government Medical College, Nellore",NO
@@ -6709,7 +6563,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 62054,1205170323,552,F,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
 62860,1202050140,551,M,BCA,SVU,P1,"ACSR Government Medical College, Nellore",NO
 63721,1205050171,550,M,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
-63840,1219030141,550,F,OC,SVU,P1,"ACSR Government Medical College, Nellore",NO
 64095,1219010631,550,F,BCB,SVU,P1,"ACSR Government Medical College, Nellore",NO
 64174,1205240271,550,M,BCA,SVU,P1,"ACSR Government Medical College, Nellore",NO
 64630,1203060846,549,M,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
@@ -6721,7 +6574,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 67088,1203020694,546,F,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
 67115,1205060082,546,M,BCB,SVU,P1,"ACSR Government Medical College, Nellore",NO
 67587,1205020734,545,F,BCB,SVU,P1,"ACSR Government Medical College, Nellore",NO
-67675,1206040210,545,F,BCA,AU,P2,"ACSR Government Medical College, Nellore",NO
 67735,1203060157,545,M,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
 67917,1203030443,545,F,BCB,SVU,P1,"ACSR Government Medical College, Nellore",NO
 68081,1205030819,545,F,BCD,SVU,P1,"ACSR Government Medical College, Nellore",NO
@@ -6766,7 +6618,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 122988,1212030246,486,F,SC,SVU,P1,"ACSR Government Medical College, Nellore",NO
 124305,1203010197,485,F,SC,SVU,P2,"ACSR Government Medical College, Nellore",NO
 125667,4206050309,483,F,SC,SVU,P2,"ACSR Government Medical College, Nellore",NO
-143181,1205230033,467,F,BCE,AU,P2,"ACSR Government Medical College, Nellore",NO
 143492,1201030272,467,M,ST,SVU,P2,"ACSR Government Medical College, Nellore",NO
 144052,1212010432,466,M,ST,SVU,P1,"ACSR Government Medical College, Nellore",NO
 145842,1205040523,465,M,ST,SVU,P1,"ACSR Government Medical College, Nellore",NO
@@ -6837,8 +6688,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 178121,4201040554,438,F,ST,SVU,P2,"Government Medical College, Nandyal",NO
 178859,1205210240,437,F,ST,SVU,P2,"Government Medical College, Nandyal",NO
 180091,1205120427,436,M,ST,SVU,P2,"Government Medical College, Nandyal",NO
-257277,1221020181,383,F,OC,SVU,P1,"Government Medical College, Nandyal",NO
-779295,4201360245,184,M,OC,OUAPNL,P1,"Government Medical College, Nandyal",NO
 27790,2712330068,602,F,OC,APNL,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 30443,1206010187,597,F,OC,AU,P2,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 33683,1206020490,592,F,OC,AU,P2,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
@@ -6963,7 +6812,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 186844,1205160134,431,F,ST,SVU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 195878,4208060389,424,F,ST,SVU,P2,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 231546,1205120444,399,F,OC,SVU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
-746215,1201080121,192,F,OC,AU,P1,"Sri Padmavathi Medical College for Women, Tirupati (under SVIMS)",NO
 33570,1205100242,592,M,OC,AU,P2,"Narayana Medical College, Nellore",NO
 39787,1205230101,583,F,OC,APNL,P2,"Narayana Medical College, Nellore",NO
 41558,1205080045,580,F,OC,AU,P2,"Narayana Medical College, Nellore",NO
@@ -7087,7 +6935,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 192543,4207030234,427,M,ST,SVU,P2,"Narayana Medical College, Nellore",NO
 197698,1219010637,423,F,ST,SVU,P2,"Narayana Medical College, Nellore",NO
 443153,1212050338,290,M,BCA,SVU,P1,"Narayana Medical College, Nellore",NO
-973634,1205190012,144,M,OC,APNL,P2,"Narayana Medical College, Nellore",NO
 44114,1204040254,576,F,BCB,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 50006,1204010638,568,F,OC,SVU,P2,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 50007,1205050016,568,M,OC,SVU,P2,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
@@ -7142,7 +6989,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 107209,1223020265,501,F,BCE,SVU,P2,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 107376,1205030313,501,F,BCE,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 108144,1203040104,500,F,BCE,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
-108197,1203040201,500,F,OC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 110377,1203020327,498,F,BCE,SVU,P2,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 143284,1221010513,467,M,BCC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 144138,1204090186,466,M,SC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
@@ -7161,7 +7007,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 189414,1205010983,429,M,ST,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 201293,1205190375,420,F,ST,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 203133,1205040275,419,F,ST,SVU,P2,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
-239008,1205260099,394,M,SC,SVU,P1,"P.E.S. Institute of Medical Sciences and Research, Kuppam",NO
 22787,1212020064,611,F,OC,APNL,P1,"Santhiram Medical College, Nandyal",NO
 54968,1205030453,562,F,OC,AU,P2,"Santhiram Medical College, Nandyal",NO
 59440,1219010111,556,M,V,S,P1,"Santhiram Medical College, Nandyal",NO
@@ -7178,7 +7023,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 66793,1205230130,546,F,OC,SVU,P2,"Santhiram Medical College, Nandyal",NO
 67228,1205200234,546,M,OC,SVU,P2,"Santhiram Medical College, Nandyal",NO
 67691,1228040115,545,F,BCD,APNL,P1,"Santhiram Medical College, Nandyal",NO
-84015,1206120141,526,F,BCD,AU,P2,"Santhiram Medical College, Nandyal",NO
 85765,1202040011,524,F,BCE,SVU,P1,"Santhiram Medical College, Nandyal",NO
 89262,1205110018,520,F,BCB,SVU,P2,"Santhiram Medical College, Nandyal",NO
 94374,1202030409,515,F,BCE,SVU,P1,"Santhiram Medical College, Nandyal",NO
@@ -7239,7 +7083,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 58450,1206050503,557,M,OC,APNL,P2,"Viswabharathi Medical College, Kurnool",NO
 58855,1201100280,556,M,OC,AU,P2,"Viswabharathi Medical College, Kurnool",NO
 59663,1201080329,555,F,OC,AU,P2,"Viswabharathi Medical College, Kurnool",NO
-63976,1228020194,550,F,OC,AU,P2,"Viswabharathi Medical College, Kurnool",NO
 66786,1204020822,546,F,OC,SVU,P2,"Viswabharathi Medical College, Kurnool",NO
 67333,1205250165,546,M,OC,SVU,P2,"Viswabharathi Medical College, Kurnool",NO
 67597,1205150302,545,F,OC,SVU,P2,"Viswabharathi Medical College, Kurnool",NO
@@ -7407,7 +7250,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 71637,1205080394,541,M,BCD,AU,P2,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
 75172,1206100333,536,F,BCD,AU,P2,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
 75502,4101160139,536,F,BCA,AU,P1,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
-96827,1201080321,512,F,BCB,AU,P2,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
 100925,1205090117,508,M,BCB,SVU,P1,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
 103307,1204080234,505,M,BCB,SVU,P1,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
 103370,1203060777,505,F,BCA,SVU,P1,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
@@ -7537,7 +7379,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 201859,1212020595,420,M,ST,AU,MopUp,"NRI Medical College, Chinnakakani",NO
 115248,1224010147,493,F,OC,AU,MopUp,"Katuri Medical College and Hospital, Guntur",NO
 207179,1205030078,416,F,ST,AU,MopUp,"Katuri Medical College and Hospital, Guntur",NO
-70439,3115340025,542,F,OC,APNL,MopUp,"Dr. Pinnamaneni Siddhartha Institute of Medical Sciences, Gannavaram",NO
 202712,1224020425,419,F,ST,AU,MopUp,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 60636,1220080189,554,M,OC,AU,MopUp,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 61046,1205030887,554,F,OC,AU,MopUp,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
@@ -7566,7 +7407,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 155660,1224030147,456,F,SC,AU,MopUp,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 156148,1205150169,456,F,SC,AU,MopUp,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 208607,4208010856,415,M,ST,AU,MopUp,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
-68728,1205090115,544,M,OC,AU,MopUp,"GSL Medical College, Rajamahendravaram",NO
 206388,1201040063,417,F,ST,AU,MopUp,"GSL Medical College, Rajamahendravaram",NO
 60532,1205010900,554,F,OC,AU,MopUp,"NRI Institute of Medical Sciences, Visakhapatnam",NO
 155694,1206010053,456,F,SC,AU,MopUp,"NRI Institute of Medical Sciences, Visakhapatnam",NO
@@ -7663,4 +7503,3 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 86819,1205040754,523,M,OC,SVU,NCCRound,"Apollo Institute of Medical Sciences and Research, Chittoor",NO
 141902,1205210398,468,M,BCE,SVU,NCCRound,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
 155661,4201370120,456,F,BCE,SVU,NCC2,"Sri Balaji Medical College Hospital and Research Institute, Renigunta, Tirupati",NO
-
