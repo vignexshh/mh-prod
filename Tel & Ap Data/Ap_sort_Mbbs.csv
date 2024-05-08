@@ -103,7 +103,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 65050,1201100109,549,M,BCE,AU,P1,"Siddhartha Medical College, Vijayawada",NO
 66115,4201430296,547,F,BCD,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 69344,4219080120,543,F,BCC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
-69883,4205090087,543,F,OC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 71007,4203050986,541,F,OC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 71385,4219010251,541,F,OC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 76937,1205190441,534,F,SC,AU,P1,"Siddhartha Medical College, Vijayawada",NO
@@ -3707,10 +3706,7 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 69883,4205090087,543,F,OC,OU,P2,"Siddhartha Medical College, Vijayawada",NO
 71385,4219010251,541,F,OC,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 71798,4201220127,540,F,BCE,OU,P2,"Siddhartha Medical College, Vijayawada",NO
-73588,4212020241,538,F,OC,OU,P2,"Siddhartha Medical College, Vijayawada",NO
-76090,1205130031,535,M,OC,OU,P2,"Siddhartha Medical College, Vijayawada",NO
 76937,1205190441,534,F,SC,AU,P1,"Siddhartha Medical College, Vijayawada",NO
-77920,4205020281,533,F,OC,OU,P2,"Siddhartha Medical College, Vijayawada",NO
 80355,1201050319,530,M,BCE,AU,P1,"Siddhartha Medical College, Vijayawada",NO
 81711,4201220207,529,F,BCD,OU,P1,"Siddhartha Medical College, Vijayawada",NO
 83918,1205200195,526,M,SC,AU,P1,"Siddhartha Medical College, Vijayawada",NO
@@ -7341,21 +7337,13 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 144577,1214010171,466,M,BCB,OUAPNL,MopUp,"Siddhartha Medical College, Vijayawada",NO
 146873,4205100477,464,F,BCD,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
 156075,4201270148,456,F,BCA,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
-156256,4221040040,456,F,OC,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
-161026,4201280179,452,F,OC,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
-161787,4208020708,451,F,OC,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
 183546,4208020254,434,M,BCB,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
 184253,4201160434,433,M,BCB,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
 184561,1205100296,433,F,BCE,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
 224328,4208010314,404,F,ST,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
 229437,4220060141,401,M,ST,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
-245049,4201480141,390,F,SC,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
-245209,4208040117,390,M,SC,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
-246006,4201140094,390,F,SC,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
-246860,4203020416,389,F,SC,OU,MopUp,"Siddhartha Medical College, Vijayawada",NO
 155608,1220030221,456,M,SC,AU,MopUp,"Government Medical College, Vizianagaram",NO
 201859,1212020595,420,M,ST,AU,MopUp,"NRI Medical College, Chinnakakani",NO
-115248,1224010147,493,F,OC,AU,MopUp,"Katuri Medical College and Hospital, Guntur",NO
 207179,1205030078,416,F,ST,AU,MopUp,"Katuri Medical College and Hospital, Guntur",NO
 202712,1224020425,419,F,ST,AU,MopUp,"Alluri Seetharama Raju Academy of Medical Sciences, Eluru",NO
 60636,1220080189,554,M,OC,AU,MopUp,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
@@ -7367,7 +7355,6 @@ RANK,NEET_ROLL_NO,SCORE,SX,CAT,LOC,PHASE,COLLEGE,EWS
 61597,1205070003,553,F,OC,AU,MopUp,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 61753,1205130287,553,F,OC,AU,MopUp,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 208241,1201020470,415,F,ST,AU,MopUp,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
-270298,1222010422,375,F,BCB,AU,MopUp,"Konaseema Institute of Medical Sciences and Research Foundation , Amalapuram",NO
 61453,1201120358,553,F,OC,AU,MopUp,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 61762,1205150363,553,M,OC,AU,MopUp,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
 61933,1205070137,553,M,OC,AU,MopUp,"Maharaja Institute of Medical Sciences, Vizianagaram",NO
