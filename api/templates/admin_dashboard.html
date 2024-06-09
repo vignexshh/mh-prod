@@ -103,6 +103,11 @@
         <input type="text" id="requestedSearch" placeholder="Search for usernames..">
         <button type="button" onclick="searchRequestedUser()">Search</button>
     </div>
+    <a href="{{ url_for('admin_post_notification') }}">Post Notification</a>
+    <!-- Add this section in your admin_dashboard.html -->
+<div class="manage-notifications">
+    <a href="{{ url_for('admin_notifications') }}">Manage Notifications</a>
+</div>
     <table id="requestedUsersTable">
         <tr>
             <th>Username</th>
@@ -142,6 +147,9 @@
             <button class="display" type="submit">Display ALL ACCEPTED USERS</button>
         </form>        
     </div>
+   
+
+    
     <script src="../static/script.js"></script>
 </body>
 </html>

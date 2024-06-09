@@ -194,18 +194,18 @@
             } else if (action === 'telangana') {
                 form.action = "/user_dashboard/{{ username }}";
                 form.method = "POST";
-            } else if (action === 'allIndia') {
-                form.action = "/allIndiaDashboard/{{ username }}";
+            } else if (action === 'andhra') {
+                form.action = "/andhraUserDashboard/{{ username }}";
                 form.method = "POST";
             } else if (action === 'notifications') {
                 form.action = "{{ url_for('notifications', username=username) }}";
                 form.method = "GET";
-            } else if (action === 'telanaganamanagement') {
-                form.action = "/telanaganamanagement/{{username}}";
+            } else if (action === 'andhramanagement') {
+                form.action = "/andhramanagement/{{username}}";
                 form.method = "POST";
             }
-            else if (action === 'andhramanagement') {
-                form.action = "/andhramanagement/{{username}}";
+            else if (action === 'allindia') {
+                form.action = "/allIndiaDashboard/{{username}}";
                 form.method = "POST";
             }
             form.submit();
@@ -220,6 +220,7 @@
             </button>
             <div class="dropdown-content">
                 <a href="javascript:void(0);" onclick="setAction('telangana')">Telanagana Analysis</a>
+                <a href="javascript:void(0);" onclick="setAction('andhra')">Andhra Analysis</a>
                 <a href="javascript:void(0);" onclick="setAction('allIndia')">All India Analysis</a>
             </div>
         </div> 
@@ -228,32 +229,27 @@
                 <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-                <a href="javascript:void(0);" onclick="setAction('telanaganamanagement')">Telangana Management</a>
+                
                 <a href="javascript:void(0);" onclick="setAction('andhramanagement')">Andhra Management</a>
             </div>
         </div>
         <a href="javascript:void(0);" onclick="setAction('notifications')">Notifications</a>
         <a href="javascript:void(0);" onclick="setAction('logout')">Logout</a>
     </div>
-
     <div class="container">
         <div class="input-container">
-            <h1>Welcome to User Dashboard, {{ username }}!</h1>
+            <h1>Welcome to Telanagana Management, {{ username }}!</h1>
             <form method="POST">
-                <!-- ... (form elements) -->
-            {{ form.hidden_tag() }}
-            {{ form.csrf_token }}
-            {{ form.scheme.label }} {{ form.scheme }}<br>
-            {{form.phase.label}} {{form.phase}}<br>
-            {{ form.caste.label }} {{ form.caste }}<br>
-            {{ form.ews.label }} {{ form.ews }}<br>
-            {{ form.locality.label }} {{ form.locality }}<br>
-            {{ form.gender.label }} {{ form.gender }}<br>
-            {{form.colleges.label}} {{form.colleges}}<br>
-            {{ form.submit() }}
+                {{ form.hidden_tag() }}
+                {{ form.csrf_token }}
+                {{ form.category.label }} {{ form.category }}<br>
+                {{form.phase.label}} {{form.phase}}<br>
+                {{form.locality.label}} {{form.locality}}<br>
+                {{form.colleges.label}} {{form.colleges}}<br>
+                {{ form.submit() }}
             </form>
-        </form>
-      </div>
+           
+        </div>
         <div class="output-container">
             {% if result is not none and not result.empty %}
                 <h2>Filtered Results:</h2>
@@ -261,6 +257,7 @@
             {% else %}
                 <p>No records found.</p>
             {% endif %}
+
             
         </div>
     </div>

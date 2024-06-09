@@ -1,11 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>User Dashboard</title>
-
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -13,9 +11,75 @@
             margin: 0;
             padding: 0;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             min-height: 100vh;
+        }
+
+        .navbar {
+            width: 100%;
+            background-color: #333;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+        }
+
+        .navbar .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+        .navbar .dropdown .dropbtn {
+            font-size: 16px;  
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 16px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+            cursor: pointer;
+        }
+
+        .navbar a, .dropbtn {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .navbar a:hover, .dropdown:hover .dropbtn {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .navbar .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .navbar .dropdown-content a {
+            float: none;
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        .navbar .dropdown-content a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .navbar .dropdown:hover .dropdown-content {
+            display: block;
         }
 
         .container {
@@ -27,10 +91,12 @@
             background-color: #fff;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
         }
+
         .welcome-h1 {
             color: black;
-            font-family:Verdana, Geneva, Tahoma, sans-serif
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
 
         .input-container,
@@ -40,7 +106,6 @@
         }
 
         .input-container {
-            
             max-width: 500px;
         }
 
@@ -118,44 +183,6 @@
             }
         }
     </style>
-</head>
-<body>
-    <div class="container">
-        <div class="input-container">
-            <h1 class="welcome-h1">Welcome to User Dashboard, {{ username }}!</h1>
-            <form method="POST">
-                <!-- ... (form elements) -->
-                {{ form.hidden_tag() }}
-            {{ form.csrf_token }}
-            {{ form.scheme.label }} {{ form.scheme }}<br>
-            {{form.phase.label}} {{form.phase}}<br>
-            {{ form.caste.label }} {{ form.caste }}<br>
-            {{ form.ews.label }} {{ form.ews }}<br>
-            {{ form.locality.label }} {{ form.locality }}<br>
-            {{ form.gender.label }} {{ form.gender }}<br>
-            {{form.colleges.label}} {{form.colleges}}<br>
-            {{ form.submit() }}
-            </form>
-        </div>
-        <div>
-            <form id="actionForm" method="POST" action="">
-                <!-- Logout Button -->
-                <button type="button" onclick="setAction('logout')">Logout</button>
-                <!-- Telangana Analysis Button -->
-                <button type="button" onclick="setAction('andhra')">Andhra Analysis</button>
-                <!-- All India Analysis Button -->
-                <button type="button" onclick="setAction('allIndia')">All India Analysis</button>
-            </form>
-        </div>
-        <div class="output-container">
-            {% if result is not none and not result.empty %}
-                <h2>Filtered Results:</h2>
-                {{ result.to_html() | safe }}
-            {% else %}
-                <p>No records found.</p>
-            {% endif %}
-        </div>
-    </div>
     <script>
         function setAction(action) {
             var form = document.getElementById('actionForm');
@@ -168,9 +195,70 @@
             } else if (action === 'allIndia') {
                 form.action = "/allIndiaDashboard/{{ username }}";
                 form.method = "POST";
+            } else if (action === 'notifications') {
+                form.action = "{{ url_for('notifications', username=username) }}";
+                form.method = "GET";
+            } else if (action === 'telanaganamanagement') {
+                form.action = "/telanaganamanagement/{{username}}";
+                form.method = "POST";
+            }
+            else if (action === 'andhramanagement') {
+                form.action = "/andhramanagement/{{username}}";
+                form.method = "POST";
             }
             form.submit();
         }
     </script>
+</head>
+<body>
+    <div class="navbar" aligin="right">
+        <div class="dropdown">
+            <button class="dropbtn">Government Quota 
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="javascript:void(0);" onclick="setAction('andhra')">Andhra Analysis</a>
+                <a href="javascript:void(0);" onclick="setAction('allIndia')">All India Analysis</a>
+            </div>
+        </div> 
+        <div class="dropdown">
+            <button class="dropbtn">Management Quota 
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="javascript:void(0);" onclick="setAction('telanaganamanagement')">Telangana Management</a>
+                <a href="javascript:void(0);" onclick="setAction('andhramanagement')">Andhra Management</a>
+            </div>
+        </div>
+        <a href="javascript:void(0);" onclick="setAction('notifications')">Notifications</a>
+        <a href="javascript:void(0);" onclick="setAction('logout')">Logout</a>
+    </div>
+
+    <div class="container">
+        <div class="input-container">
+            <h1 class="welcome-h1">Welcome to User Dashboard, {{ username }}!</h1>
+            <form method="POST">
+                {{ form.hidden_tag() }}
+                {{ form.csrf_token }}
+                {{ form.scheme.label }} {{ form.scheme }}<br>
+                {{ form.phase.label }} {{ form.phase }}<br>
+                {{ form.caste.label }} {{ form.caste }}<br>
+                {{ form.ews.label }} {{ form.ews }}<br>
+                {{ form.locality.label }} {{ form.locality }}<br>
+                {{ form.gender.label }} {{ form.gender }}<br>
+                {{ form.colleges.label }} {{ form.colleges }}<br>
+                {{ form.submit() }}
+            </form>
+        </div>
+        <div class="output-container">
+            {% if result is not none and not result.empty %}
+                <h2>Filtered Results:</h2>
+                {{ result.to_html() | safe }}
+            {% else %}
+                <p>No records found.</p>
+            {% endif %}
+        </div>
+    </div>
+    <form id="actionForm" method="POST" action=""></form>
 </body>
 </html>

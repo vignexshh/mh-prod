@@ -1,0 +1,21 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 765-634-698
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:22] "POST /user_login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:25] "GET /andhraUserDashboard/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:30] "GET /notifications/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:34] "GET /user_dashboard/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:39] "POST /andhraUserDashboard/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:51] "POST /allIndiaDashboard/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:53] "POST /user_dashboard/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:58] "POST /andhraUserDashboard/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:51:59] "POST /telanaganamanagement/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:52:01] "POST /andhramanagement/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:52:05] "GET /notifications/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:52:06] "GET /user_dashboard/vigneshtest HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:52:08] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2024 20:52:08] "GET /user_login HTTP/1.1" 200 -
